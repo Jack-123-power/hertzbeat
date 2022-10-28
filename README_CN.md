@@ -187,7 +187,8 @@ HertzBeat赫兹跳动为 [Dromara开源社区](https://dromara.org/) 孵化项�
 
 ##### 友情链接   
 
-- [hippo4j](https://github.com/opengoofy/hippo4j/) : 强大的动态线程池框架，附带监控报警功能      
+- [hippo4j](https://github.com/opengoofy/hippo4j/) : 强大的动态线程池框架，附带监控报警功能 
+- [Eoapi](https://www.eoapi.io/?utm_source=sponsor&utm_campaign=s-hertzbeatyl) : 开源可扩展 API 管理工具     
 
 ##### 赞助     
 
